@@ -1,1 +1,1 @@
-alert("welcome to my page")
+alert("get out")
